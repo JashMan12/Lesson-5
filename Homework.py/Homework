@@ -1,0 +1,6 @@
+X=int(input("What is the temperature today?"))
+
+if X >= 20:
+    print("It's a hot day today.")
+else:
+    print("It's a cold day today.")
